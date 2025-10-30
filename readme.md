@@ -6,6 +6,8 @@ HISA PEOPLES CHAIN is a grassroots movement powered by Hedera's distributed ledg
 
 This repository contains the code for the HISA platform. Below are instructions to set it up and run locally for testing or judging.
 
+https://hisa-chain-dapp.vercel.app/
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (version 14.0.0 or higher)
