@@ -1,12 +1,3 @@
-Below is the updated `README.md` file. I've incorporated a new subsection under "Hedera-Specific Setup" called **Hedera Integrations and APIs**. This explains the relevant Hedera webhooks, APIs, and specific tools/integrations you mentioned (Dovu, Guardian, Kabila, Hedera AI Studio ADK, Eliza plugins, and OpenCovAI). I assumed these are part of your project's stack based on the HISA context (e.g., for AI verification, conservation tokenization, cultural preservation, and SDG metrics). 
-
-- I provided brief descriptions, setup instructions (e.g., env vars, npm installs if needed), and local testing tips.
-- If these require additional dependencies, I noted them (e.g., assuming they're installed via `npm install` if in `package.json`).
-- Kept it practical for local setup: e.g., how to configure and test them without assuming production deployment.
-- If any details are inaccurate (e.g., exact usage of "Eliza plugins" or "OpenCovAI"—which I interpreted as AI plugins for chatbots/health and an open-source AI for coverage/verification), provide more context, and I can refine.
-
-The rest of the README remains the same for consistency.
-
 ---
 
 # HISA PEOPLES CHAIN
